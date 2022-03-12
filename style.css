@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+body {
+  background: radial-gradient(
+    circle,
+    rgba(162, 0, 255, 1) 0%,
+    rgba(0, 255, 247, 1) 100%
+  );
+ font-family: Pacifico;
+  text-align: center;
+  
+}
+.container{
+  background-color: mediumaquamarine;  
+}
+#app {
+  background: radial-gradient(
+    circle,
+    rgba(162, 0, 255, 1) 0%,
+    rgba(0, 255, 247, 1) 100%
+  );
+}
+
+#myCarousel
+{
+    background: radial-gradient(
+    circle,
+    rgba(162, 0, 255, 1) 0%,
+    rgba(0, 255, 247, 1) 100%
+  );
+}
+
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+    border: 15px solid #070122;
+  border-radius: 30px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
