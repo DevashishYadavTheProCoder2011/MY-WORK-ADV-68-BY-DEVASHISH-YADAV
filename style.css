@@ -44,18 +44,13 @@ body {
     color : white;
     font-size: 20px;
 }
-.menu{
-  float:left;
-  list-style:none;
-  color:rgb(0, 0, 0);
-  position:fixed;
-  background: radial-gradient(
-      circle,
-      rgb(5, 0, 8) 0%,
-      rgb(219, 72, 14) 100%
-    );
-  width:100%;
-  margin-top:0px;
-  top:0px;
-  z-index:10;
-  }
+#menu {
+			background-color: #E8E8E8 ;
+			border: 1px solid #666666 ;
+			bottom: 32px ;
+			display: none ;
+			left: 0px ;
+			padding: 5px 5px 1px 5px ;
+			position: absolute ;
+			width: 200px ;
+			}
